@@ -10,10 +10,13 @@ At Headpat, we're working on two major projects:
     - Our mobile app is designed to be the go-to social platform for LGBT+ and furry individuals. It will feature user-friendly profiles, communities, and events tailored to our audience. Whether you're looking to make new friends, share your art, or find a community that gets you, the Headpat app is the place to be!
 
 2. **Headpat Place 🌐**
-    - [headpat.place](https://headpat.place) is our interactive community hub dedicated to connecting people and fostering engagement across our diverse community.
+    - [headpat.place](https://headpat.place) - a place for connecting people and fostering engagement across our diverse community.
   
 3. **Headpat Space 🖥️**
-    - [headpat.space](https://headpat.space) is our comprehensive digital infrastructure platform designed to power our services and host data for users. It offers a secure, scalable, and reliable environment for databases, servers, and other essential hosting needs.
+    - [headpat.space](https://headpat.space) - a space designed to power our services and host data for users. It offers a secure, scalable, and reliable environment for databases, servers, and other essential hosting needs.
+  
+4. **Headpat Developer 🛠️**
+    - [headpat.dev](https://headpat.dev) - a developer platform for all things Headpat. Here you can find all documentation and API's.
 
 ## Our Mission 💖
 
