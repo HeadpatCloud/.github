@@ -1,6 +1,6 @@
 # Headpat 🐾✨
 
-Welcome to **Headpat** — a community-driven platform designed to bring together the LGBT+ and furry communities in a safe, fun, and inclusive environment. We are passionate about fostering a space where everyone can express themselves, connect with like-minded individuals, and find their place within our ever-growing family.
+Welcome to **Headpat** — a community-driven platform designed to bring users together, host people their data efficiently and securely and allow them to use API's with proper documentation.
 
 ## What We're Building 🚀
 
