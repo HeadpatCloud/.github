@@ -4,7 +4,7 @@ Welcome to **Headpat** — a community-driven platform designed to bring users t
 
 ## What We're Building 🚀
 
-At Headpat, we're working on two major projects:
+At Headpat, we're working on some major projects:
 
 1. **Headpat App 📱**
     - Our mobile app is designed to be the go-to social platform for LGBT+ and furry individuals. It will feature user-friendly profiles, communities, and events tailored to our audience. Whether you're looking to make new friends, share your art, or find a community that gets you, the Headpat app is the place to be!
